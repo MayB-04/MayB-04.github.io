@@ -1,0 +1,1 @@
+This is my first attempt at using git hub. A repository was made as well as a branch containing the following files: index.html that contains a sentence saying hello world, a text file with my student nmr and name and finally a file containing this report, that was then pushed to git hub.
